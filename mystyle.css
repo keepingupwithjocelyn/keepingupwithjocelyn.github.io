@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<head>
-  <link href="/normalize.css" rel="stylesheet">
-  <style>
-    header {
-      text-align: center;
-      background: url('https://lh3.google.com/u/0/d/0B1lgjJN2kGmDNG5PYVNTbEp4MEE=w1290-h837-iv1');
+body {
+	background: #8a9cb4;
+	color:black; 
+	text-align: center;
+}
+img{
+	margin: 40px 40px 40px 40px;
+	border-color: #505765;
+	border-radius: 20px;
+}
+ background: url('https://lh3.google.com/u/0/d/0B1lgjJN2kGmDNG5PYVNTbEp4MEE=w1290-h837-iv1');
       background-size: cover;
       color: white;
     }
@@ -41,25 +45,3 @@
         padding: 5px;
         display: block;
       }
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <img src="https://lh3.google.com/u/0/d/0B1lgjJN2kGmDLWtOamplYnRIdFE=w1692-h876-iv1"width=300>
-    <h1>Jocelyn</h1>
-    <ul>
-      <li><a href="#">About Me</a></li>
-      <li><a href="#">ATM Program</a></li>
-      <li><a href="#">My Future</a></li>
-    </ul>
-  </header>body {
-	background: #8a9cb4;
-	color:black; 
-	text-align: center;
-}
-img{
-	margin: 40px 40px 40px 40px;
-	border-color: #505765;
-	border-radius: 20px;
-}
