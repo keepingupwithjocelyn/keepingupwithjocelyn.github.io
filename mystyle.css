@@ -8,7 +8,8 @@ img{
 	border-color: #505765;
 	border-radius: 20px;
 }
- background: url('https://lh3.google.com/u/0/d/0B1lgjJN2kGmDNG5PYVNTbEp4MEE=w1290-h837-iv1');
+    body {  
+background: url('https://lh3.google.com/u/0/d/0B1lgjJN2kGmDNG5PYVNTbEp4MEE=w1290-h837-iv1'); 
       background-size: cover;
       color: white;
     }
