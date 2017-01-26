@@ -1,6 +1,5 @@
 body {
-	background: #8a9cb4;
-	color:pink; 
+	background-color: #8a9cb4;
 	text-align:left; 
      }
 img {
@@ -10,14 +9,13 @@ img {
       }
     }
     a {
-      color: white;
+      color: black;
     }
     h1 {
       font-size: 70px;
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
       border-radius: 20px;
     }
     ul {
