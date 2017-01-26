@@ -2,16 +2,15 @@ body {
 	background: #8a9cb4;
 	color:black; 
 	text-align:left;
-}
-img{
+	background: url('https://lh3.google.com/u/0/d/0B1lgjJN2kGmDNG5PYVNTbEp4MEE=w1290-h837-iv1'); 
+      background-size: cover;
+      color: white;
+     }
+img {
 	margin: 40px 40px 40px 40px;
 	border-color: #505765;
 	border-radius: 20px;
-}
-    body {  
-background: url('https://lh3.google.com/u/0/d/0B1lgjJN2kGmDNG5PYVNTbEp4MEE=w1290-h837-iv1'); 
-      background-size: cover;
-      color: white;
+      }
     }
     a {
       color: white;
